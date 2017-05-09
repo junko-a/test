@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-www
-=======
-qqq
-ppp
->>>>>>> branch_test
