@@ -5,7 +5,11 @@ again, edited on the test branch
 2
 3
 4
+<<<<<<< HEAD
 master!
 edited on the sub branch
 edited on the sub branch2
 branch!!!
+=======
+another(^_^)
+>>>>>>> another_branch
