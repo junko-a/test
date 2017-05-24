@@ -13,3 +13,5 @@ branch!!!
 =======
 another(^_^)
 >>>>>>> another_branch
+
+I don't care about updates on master branch!
